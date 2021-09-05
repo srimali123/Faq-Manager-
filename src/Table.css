@@ -1,0 +1,38 @@
+.topic{
+    background-color: rgb(237, 239, 243);
+    min-height: 800px ;
+    max-width: 100%;
+    padding: 10px;
+    
+}
+.topic .topic1{
+    margin: 10px 15px ;
+   padding-top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.topic .footer{
+    float: left;
+    margin: 400px 10px 20px 15px;
+    font-size: 15px;
+}
+
+.topic .footer-end{
+    float: right;
+    margin: -30px 80px 20px 1000px;
+    font-size: 15px;
+   
+}
+.table{
+    
+    background-color: white;
+    color: rgba(80, 74, 74, 0.808);
+    border-radius: 10px;
+    
+    border-collapse: collapse;
+   }
+   .btn btn-dark{
+       margin:900px;
+       padding-top: 0;
+   }
+ 

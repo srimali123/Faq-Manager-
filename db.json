@@ -1,0 +1,31 @@
+{
+    "questions":[
+        {
+          "id": 1,
+          "q": "What is the vision of iLabs?",
+          "category": "About Company",
+          "status": "published"
+        },
+        {
+            "id": 2,
+            "q": "What is the mission of iLabs?",
+            "category": "About Company",
+            "status": "published"
+        },
+        {
+            "id": 3,
+            "q": "When iLabs got established?",
+            "category": "About Company",
+            "status": "Draft"
+
+        },
+        {
+            "id": 4,
+            "q": "What are the benifits for interns in  iLabs?",
+            "category": "About Company",
+            "status": "published"
+            
+        }
+
+      ]
+    }
